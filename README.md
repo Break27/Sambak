@@ -1,2 +1,2 @@
 # Sambak
-A open source advanced computer programming language.
+A open source computer programming language.
